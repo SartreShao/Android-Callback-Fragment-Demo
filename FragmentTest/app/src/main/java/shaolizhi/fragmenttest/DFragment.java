@@ -1,5 +1,6 @@
 package shaolizhi.fragmenttest;
 
+import android.content.Context;
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
 import android.view.LayoutInflater;
@@ -52,7 +53,12 @@ public class DFragment extends Fragment {
         });
         return rootView;
     }
-    void getFragmentSwitcher(FragmentSwitcher fragmentSwitcher){
+    @Override
+    public void onAttach(Context activity){
+        super.onAttach(activity);
+        getFragmentSwitcher((FragmentSwitcher) activity);
+    }
+    private void getFragmentSwitcher(FragmentSwitcher fragmentSwitcher){
         this.fragmentSwitcher = fragmentSwitcher;
     }
 }

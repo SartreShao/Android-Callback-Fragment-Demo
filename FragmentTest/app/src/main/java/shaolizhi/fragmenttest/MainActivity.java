@@ -31,11 +31,6 @@ public class MainActivity extends AppCompatActivity implements FragmentSwitcher 
 
     private void initializeFragment(){
         switchToA();
-        aFragment.getFragmentSwitcher(this);
-        bFragment.getFragmentSwitcher(this);
-        cFragment.getFragmentSwitcher(this);
-        dFragment.getFragmentSwitcher(this);
-
     }
 
     @Override
