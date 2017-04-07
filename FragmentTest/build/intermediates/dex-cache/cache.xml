@@ -3,39 +3,12 @@
 
     <item
         is-multidex="true"
-        jar="M:\DATA\CODE\Github\Android-Callback-Fragment-Demo\FragmentTest\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="M:\DATA\CODE\Github\Android-Callback-Fragment-Demo\FragmentTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_e33e6fae5f5707223836c8bb8fa263f7df79521c\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="M:\DATA\CODE\Android\FragmentTest\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
         sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
         <dex dex="M:\DATA\CODE\Android\FragmentTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_088bf1aee5fd33a4ad63c964ad5702cdfcb1234c\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="M:\DATA\CODE\Github\Android-Callback-Fragment-Demo\FragmentTest\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
-        <dex dex="M:\DATA\CODE\Github\Android-Callback-Fragment-Demo\FragmentTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_b29d509b90497eac9033522a7d8b5f09ef2b30d0\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="M:\DATA\CODE\Github\Android-Callback-Fragment-Demo\FragmentTest\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
-        <dex dex="M:\DATA\CODE\Github\Android-Callback-Fragment-Demo\FragmentTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_16557e6a4212f91a7dfa686052b44ba20f1f2cbd\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -48,21 +21,12 @@
     </item>
     <item
         is-multidex="true"
-        jar="M:\DATA\CODE\Github\Android-Callback-Fragment-Demo\FragmentTest\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jar="M:\DATA\CODE\Github\Android-Callback-Fragment-Demo\FragmentTest\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
         jumboMode="true"
         optimize="true"
-        revision="24.0.2"
-        sha1="59343e668c08e36101c1a9af966f2e9d0fa4bea2">
-        <dex dex="M:\DATA\CODE\Github\Android-Callback-Fragment-Demo\FragmentTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_9f8a58de32bdca101469e02de1a4d7cde4e8feb1\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="M:\DATA\CODE\Github\Android-Callback-Fragment-Demo\FragmentTest\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
-        <dex dex="M:\DATA\CODE\Github\Android-Callback-Fragment-Demo\FragmentTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_3bc7192255bafd249f345f9da96ea270df24de90\classes.dex" />
+        revision="25.0.0"
+        sha1="b329701b0a60f480c9efbd50b4aa3a955972fcff">
+        <dex dex="M:\DATA\CODE\Github\Android-Callback-Fragment-Demo\FragmentTest\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_c12b0e7e951c45b23f968e2e397ac5be6be8d15e\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -75,12 +39,30 @@
     </item>
     <item
         is-multidex="true"
-        jar="M:\DATA\CODE\Github\Android-Callback-Fragment-Demo\FragmentTest\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jar="M:\DATA\CODE\Android\FragmentTest\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
-        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
-        <dex dex="M:\DATA\CODE\Github\Android-Callback-Fragment-Demo\FragmentTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_3d09af30e1452546883e34d93ab5b3da81dec98f\classes.dex" />
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="M:\DATA\CODE\Android\FragmentTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_43b9bd365847f07ccfd23c7bf2f8b610d6b648bb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="M:\DATA\CODE\Android\FragmentTest\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="M:\DATA\CODE\Android\FragmentTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_013cfbd0edba2b861d220404a7a2572ef70877a6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="M:\DATA\CODE\Android\FragmentTest\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="M:\DATA\CODE\Android\FragmentTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_7b27cd1be9093dff66d2dcdeeb458dd9ec9e9810\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -93,21 +75,21 @@
     </item>
     <item
         is-multidex="true"
-        jar="M:\DATA\CODE\Github\Android-Callback-Fragment-Demo\FragmentTest\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jar="M:\DATA\CODE\Android\FragmentTest\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
-        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
-        <dex dex="M:\DATA\CODE\Github\Android-Callback-Fragment-Demo\FragmentTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_78f39ca28e14222ad93cb36dec6bbe57181a75f6\classes.dex" />
+        sha1="9d71b348cae94081e838b2709979c816293198c8">
+        <dex dex="M:\DATA\CODE\Android\FragmentTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_25198d62db2ca3c8a7fc2ad364edb8a5000f1d85\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="M:\DATA\CODE\Github\Android-Callback-Fragment-Demo\FragmentTest\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jar="M:\DATA\CODE\Android\FragmentTest\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
-        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
-        <dex dex="M:\DATA\CODE\Github\Android-Callback-Fragment-Demo\FragmentTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_f0cbc3dfe33215fa1edadc628139833886568caf\classes.dex" />
+        sha1="b35a5b01c4a68c8eb856087f2b52915c4a3b2033">
+        <dex dex="M:\DATA\CODE\Android\FragmentTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_4bf9e1e03db285b41a62117ab5525fb8f915cca2\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -117,15 +99,6 @@
         revision="24.0.2"
         sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
         <dex dex="M:\DATA\CODE\Android\FragmentTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_1b127749164f3f6985672a694073c951b1a5addd\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="M:\DATA\CODE\Github\Android-Callback-Fragment-Demo\FragmentTest\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
-        <dex dex="M:\DATA\CODE\Github\Android-Callback-Fragment-Demo\FragmentTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_40758c33e81b19289a37d4184815f84747ca8290\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -156,6 +129,15 @@
     </item>
     <item
         is-multidex="true"
+        jar="M:\DATA\CODE\Android\FragmentTest\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="M:\DATA\CODE\Android\FragmentTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_143785a1f5ca8e3d265642033584d2cc5ffe3c97\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="M:\DATA\CODE\Android\FragmentTest\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
         jumboMode="true"
         optimize="true"
@@ -165,21 +147,12 @@
     </item>
     <item
         is-multidex="true"
-        jar="M:\DATA\CODE\Github\Android-Callback-Fragment-Demo\FragmentTest\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jar="M:\DATA\CODE\Android\FragmentTest\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
-        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
-        <dex dex="M:\DATA\CODE\Github\Android-Callback-Fragment-Demo\FragmentTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_ea61aa016ab39b24912953565df2986ec23960a1\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="M:\DATA\CODE\Github\Android-Callback-Fragment-Demo\FragmentTest\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
-        <dex dex="M:\DATA\CODE\Github\Android-Callback-Fragment-Demo\FragmentTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_816939343f6499dd7ad817084497d0f9d4607bbb\classes.dex" />
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="M:\DATA\CODE\Android\FragmentTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_905a0e097e620fb85c27d4ab59e59554572a7b19\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -192,111 +165,12 @@
     </item>
     <item
         is-multidex="true"
-        jar="M:\DATA\CODE\Github\Android-Callback-Fragment-Demo\FragmentTest\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jar="M:\DATA\CODE\Github\Android-Callback-Fragment-Demo\FragmentTest\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
         jumboMode="true"
         optimize="true"
-        revision="24.0.2"
-        sha1="a3c2ca7c218ee3404328fcec537569bad7028dd9">
-        <dex dex="M:\DATA\CODE\Github\Android-Callback-Fragment-Demo\FragmentTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_c12b0e7e951c45b23f968e2e397ac5be6be8d15e\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="M:\DATA\CODE\Github\Android-Callback-Fragment-Demo\FragmentTest\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="867dad63c33388ff8c7644b236579355036d075f">
-        <dex dex="M:\DATA\CODE\Github\Android-Callback-Fragment-Demo\FragmentTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_9fd8d65572e5acfef7fedea47273d534774c08c5\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="M:\DATA\CODE\Github\Android-Callback-Fragment-Demo\FragmentTest\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
-        <dex dex="M:\DATA\CODE\Github\Android-Callback-Fragment-Demo\FragmentTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_a1132cdedb589fe2b9b8455d49c1c99045cdc214\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="M:\DATA\CODE\Android\FragmentTest\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
-        <dex dex="M:\DATA\CODE\Android\FragmentTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_43b9bd365847f07ccfd23c7bf2f8b610d6b648bb\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="M:\DATA\CODE\Android\FragmentTest\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
-        <dex dex="M:\DATA\CODE\Android\FragmentTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_013cfbd0edba2b861d220404a7a2572ef70877a6\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="M:\DATA\CODE\Github\Android-Callback-Fragment-Demo\FragmentTest\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
-        <dex dex="M:\DATA\CODE\Github\Android-Callback-Fragment-Demo\FragmentTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_97ce55677dfd0357ecad5eda4cef15666404b03d\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="M:\DATA\CODE\Android\FragmentTest\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
-        <dex dex="M:\DATA\CODE\Android\FragmentTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_7b27cd1be9093dff66d2dcdeeb458dd9ec9e9810\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="M:\DATA\CODE\Android\FragmentTest\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="9d71b348cae94081e838b2709979c816293198c8">
-        <dex dex="M:\DATA\CODE\Android\FragmentTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_25198d62db2ca3c8a7fc2ad364edb8a5000f1d85\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="M:\DATA\CODE\Github\Android-Callback-Fragment-Demo\FragmentTest\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
-        <dex dex="M:\DATA\CODE\Github\Android-Callback-Fragment-Demo\FragmentTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_1853692574f16eaf20497ab6f8ac760f1393247d\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="M:\DATA\CODE\Android\FragmentTest\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="b35a5b01c4a68c8eb856087f2b52915c4a3b2033">
-        <dex dex="M:\DATA\CODE\Android\FragmentTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_4bf9e1e03db285b41a62117ab5525fb8f915cca2\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="M:\DATA\CODE\Android\FragmentTest\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
-        <dex dex="M:\DATA\CODE\Android\FragmentTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_143785a1f5ca8e3d265642033584d2cc5ffe3c97\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="M:\DATA\CODE\Android\FragmentTest\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
-        <dex dex="M:\DATA\CODE\Android\FragmentTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_905a0e097e620fb85c27d4ab59e59554572a7b19\classes.dex" />
+        revision="25.0.0"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="M:\DATA\CODE\Github\Android-Callback-Fragment-Demo\FragmentTest\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_9f8a58de32bdca101469e02de1a4d7cde4e8feb1\classes.dex" />
     </item>
 
 </items>

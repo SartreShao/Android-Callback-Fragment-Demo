@@ -5,7 +5,7 @@ package shaolizhi.fragmenttest;
  * 这里面是四个回调函数
  */
 
-public interface FragmentSwitcher {
+interface FragmentSwitcher {
 
     void switchToA();
     void switchToB();
